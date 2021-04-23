@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="BC55E960-E219-47EA-A3F1-B407474686C2" version="0" availableOffline="1">
+<presentation guid="F2147449-22FB-4C0E-87F5-89133F88FFF7" version="0" availableOffline="1">
 	<info>
 		<title>Feelings</title>
 		<description/>
 	</info>
-	<files index="id195" thumbnail="id259" totalSize="93619184">
+	<files index="id195" thumbnail="id259" totalSize="95872509">
 		<file id="id0">data/slide1.js</file>
 		<file id="id1">data/slide1.css</file>
 		<file id="id2">data/video1.mp4</file>
@@ -39,18 +39,18 @@
 		<file id="id31">data/quiz1/fonts/fnt4.woff</file>
 		<file id="id32">data/quiz1/fonts/fnt5.woff</file>
 		<file id="id33">data/quiz1/fonts/fnt6.woff</file>
-		<file id="id34">data/quiz1/images/img-1f6119188e285fa11d50dbbd0acfa36dfe01cda2.jpg</file>
-		<file id="id35">data/quiz1/images/img-7f714eca7707152b22c6329e5865dbba6c666fbf.jpg</file>
-		<file id="id36">data/quiz1/images/img-816ff1341ed2196241d9136a31fb2ea2ec666a6d.jpg</file>
-		<file id="id37">data/quiz1/images/img-8d3b7d952c4b0e7e82aa9ff276a4de10389ba7fa.jpg</file>
+		<file id="id34">data/quiz1/images/img-137267819f3729f3cb00815d53d6d28ed8dfb673.jpg</file>
+		<file id="id35">data/quiz1/images/img-1f6119188e285fa11d50dbbd0acfa36dfe01cda2.jpg</file>
+		<file id="id36">data/quiz1/images/img-7f714eca7707152b22c6329e5865dbba6c666fbf.jpg</file>
+		<file id="id37">data/quiz1/images/img-816ff1341ed2196241d9136a31fb2ea2ec666a6d.jpg</file>
 		<file id="id38">data/quiz1/images/img-9cc77a7d8f7a3e6533bef0a59b52969f47e5b7c9.jpg</file>
 		<file id="id39">data/quiz1/images/img-dd5be010932f0dae567569039e7ede2d20965794.jpg</file>
 		<file id="id40">data/quiz1/images/img-e1370aa8d1f938d80d4371b165c81a1bfd3974ea.png</file>
 		<file id="id41">data/quiz1/images/img-e749ad9a953b35aa075587f79a4a503188c464f0.jpg</file>
 		<file id="id42">data/quiz1/images/quiz_bg_0.png</file>
-		<file id="id43">data/quiz1/videos/video-7f714eca7707152b22c6329e5865dbba6c666fbf.mp4</file>
-		<file id="id44">data/quiz1/videos/video-816ff1341ed2196241d9136a31fb2ea2ec666a6d.mp4</file>
-		<file id="id45">data/quiz1/videos/video-8d3b7d952c4b0e7e82aa9ff276a4de10389ba7fa.mp4</file>
+		<file id="id43">data/quiz1/videos/video-137267819f3729f3cb00815d53d6d28ed8dfb673.mp4</file>
+		<file id="id44">data/quiz1/videos/video-7f714eca7707152b22c6329e5865dbba6c666fbf.mp4</file>
+		<file id="id45">data/quiz1/videos/video-816ff1341ed2196241d9136a31fb2ea2ec666a6d.mp4</file>
 		<file id="id46">data/quiz1/videos/video-9cc77a7d8f7a3e6533bef0a59b52969f47e5b7c9.mp4</file>
 		<file id="id47">data/quiz1/videos/video-dd5be010932f0dae567569039e7ede2d20965794.mp4</file>
 		<file id="id48">data/quiz1/videos/video-e749ad9a953b35aa075587f79a4a503188c464f0.mp4</file>
